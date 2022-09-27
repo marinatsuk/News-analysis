@@ -1,0 +1,1104 @@
+<div class="an">
+<div data-id="844416"><span>23:56</span><a href="/russia/844416"><h3>Дождь, гроза и ветер с порывами до 15 м/с ожидаются в Москве ночью</h3></a></div>
+<div data-id="844415"><span>23:35</span><a href="/world/844415"><h3>Решение ОПЕК+ увеличить добычу нефти отвечает планам ЕС</h3></a></div>
+<div data-id="844414"><span>23:12</span><a href="/russia/844414"><h3>В медучреждения после ДТП с автобусом в Химках доставлены 13 человек</h3></a></div>
+<div data-id="844413"><span>22:53</span><a href="/world/844413"><h3>Байден заявил о необходимости учитывать обеспокоенность союзников при расширении НАТО</h3></a></div>
+<div data-id="844412"><span>22:33</span><a href="/russia/844412"><h3>Медведев назвал передачу Украине РСЗО США угрозой, на которую Россия может ответить огнем</h3></a></div>
+<div data-id="844411"><span>22:17</span><a href="/world/844411"><h3>Молдавия ведет переговоры со странами ЕС относительно оснащения армии</h3></a></div>
+<div data-id="844410"><span>21:58</span><a href="/russia/844410"><h3>Двух людей унесло течением в результате падения машины в реку в Дагестане</h3></a></div>
+<div data-id="844409"><span>21:56</span><a href="https://www.sport-interfax.ru/844409"><h3>Баскетболисты "Зенита" перевели серию финала Единой лиги ВТБ с ЦСКА в седьмой матч</h3></a></div>
+<div data-id="844408"><span>21:45</span><a href="/business/844408"><h3>Сбербанк может повысить базовое вознаграждение членам набсовета на 20%</h3></a></div>
+<div data-id="844407"><span>21:36</span><a href="/business/844407"><h3>Власти поручили не выплачивать дивиденды по акциям Киностудии им.Горького за 2021-2023 гг.</h3></a></div>
+<div data-id="844406"><span>21:14</span><a href="/business/844406"><h3>Доля юрлиц-нерезидентов в капитале Сбербанка по итогам 2021 года превышала 44%</h3></a></div>
+<div data-id="844405"><span>21:06</span><a href="/business/844405"><h3>Аналитики ЦБ РФ сочли неустойчивым текущее замедление инфляции</h3></a></div>
+<div data-id="844404"><span>20:56</span><a href="/business/844404"><h3>ОПЕК+ встречает летний сезон сверхплановой прибавкой. Обобщение</h3></a></div>
+<div data-content="webR" id="pl447_ban214"><style>
+[id*="ban214"]  > .center_desk {
+   min-height: 250px; /*desktop*/
+   overflow-x:hidden;
+/*    max-height: 270px; desktop*/
+}
+[id*="ban214"]  > .center_mob {
+  display: none;
+}
+
+/*ширина страницы до которой применяется стиль*/
+@media only screen and (max-width:760px) { 
+[id*="ban214"]  > .center_desk {
+    display: none; /*desktop*/
+}
+[id*="ban214"]  > .center_mob {
+  display: block;
+  min-height: 250px; /*mobile*/
+   overflow-x:hidden;
+/*  max-height: 270px; mobile*/
+}
+}
+</style>
+<style>
+.yatag__ban > div > yatag  >  yatag {margin-bottom:20px !important; margin-top:20px !important;}
+</style>
+<div class="i_desktop_only center_desk" style="overflow-x:hidden;">
+<!--AdFox START-->
+<!--roden-media-->
+<!--Площадка: Interfax / * / *-->
+<!--Тип баннера: 100%х240 середина-->
+<!--Расположение: <верх страницы>-->
+<div id="adfox_preid"></div>
+<script>
+        window.yaContextCb.push(()=>{
+            var bancont = document.querySelector('[id*=_ban214] #adfox_preid'); // контейнер, в который будет добавлен баннер
+            var randname = Math.random(); // случайное число
+            bancont.setAttribute('id', 'adfox_' + randname);  // установка нового ID контейнеру
+            var temp = document.querySelector('[id="adfox_'+randname +'"]').parents('[id*=_ban214]');
+            if (bancont != null) {
+                   Ya.adfoxCode.createScroll({
+                    ownerId: 173858,
+                    containerId: 'adfox_' + randname, /* новый ID контейнера */
+                    params: {
+                        p1: 'bsqgf',
+                        p2: 'etsw',
+                        puid1: '',
+                        puid2: '',
+                        puid3: '',
+                        puid4: '',
+                        pk: 'авария убийство насилие болезнь коронавирус covid вакцина эпидемия терроризм стрельба оружие война атака смерть',
+                        pke: '1'
+                    },
+                    onStub: function()
+                        {
+                        if (temp[0]) temp[0].setAttribute('style','display:none;');
+                        },
+                    onRender: function()  
+                        {
+                        if (temp[0]) {temp[0].setAttribute('style','display:block;');}
+                        document.querySelector('[id="adfox_'+randname +'"]').setAttribute("style", "margin-bottom:20px;");
+		                if  (temp[0]) { setTimeout(function()  { var ban_val=document.querySelector('[id="adfox_'+randname +'"]').offsetHeight;  if (  ban_val < 60) { temp[0].setAttribute('style','display:none;');}}, 1000);}
+                        }            
+                }, ['desktop', 'tablet'], {
+                    tabletWidth: 1023,
+                    phoneWidth: 760,
+                    isAutoReloads: true
+                });
+        }
+    });	
+</script>
+</div>
+<div class="i_mobile_only center_mob">
+<!--AdFox START-->
+<!--roden-media-->
+<!--Площадка: Interfax / * / *-->
+<!--Тип баннера: 100%х240 середина-->
+<!--Расположение: <верх страницы>-->
+<div id="adfox_preid"></div>
+<script>
+        window.yaContextCb.push(()=>{
+            var bancont = document.querySelector('[id*=_ban214] #adfox_preid'); // контейнер, в который будет добавлен баннер
+            var randname = Math.random(); // случайное число
+            bancont.setAttribute('id', 'adfox_' + randname);  // установка нового ID контейнеру
+            var temp = document.querySelector('[id="adfox_'+randname +'"]').parents('[id*=_ban214]');
+            if (bancont != null) {
+                   Ya.adfoxCode.createScroll({
+                    ownerId: 173858,
+                    containerId: 'adfox_' + randname, /* новый ID контейнера */
+                    params: {
+                        p1: 'bzakf',
+                        p2: 'etsw',
+                        puid1: '',
+                        puid2: '',
+                        puid3: ''
+                    },
+                    onStub: function()   {
+                        if (temp[0]) temp[0].setAttribute('style','display:none;');
+                    },
+                    onRender: function()  
+                    {
+                        if  (temp[0])  temp[0].setAttribute('style','display:block;');
+                        if (document.querySelector('[data-pagetype="quotes"]')) temp[0].setAttribute('style','display:block;margin-bottom:20px;');
+                    }
+                }, ['phone'], {
+                    tabletWidth: 1023,
+                    phoneWidth: 760,
+                    isAutoReloads: true
+            });
+        }	
+    });   
+</script>
+</div>
+</div>
+<div data-id="844403"><span>20:36</span><a href="/world/844403"><h3>МИД РФ выразил надежду, что Турция воздержится от силовой операции в Сирии</h3></a></div>
+<div data-id="844398"><span>20:35</span><a href="/russia/844398"><h3>Что произошло за день: четверг, 2 июня</h3></a></div>
+<div data-id="844402"><span>20:26</span><a href="/russia/844402"><h3>"Почта России" запустит до конца года первые коммерческие беспилотные маршруты</h3></a></div>
+<div data-id="844401"><span>20:20</span><a href="/world/844401"><h3>Представители РФ, Украины, Турции и ООН обсудят в Стамбуле ситуацию с зерном</h3></a></div>
+<div data-id="844400"><span>20:08</span><a href="/russia/844400"><h3>В подмосковных Химках 10 человек пострадали при наезде автобуса на остановку</h3></a></div>
+<div data-id="844380"><span>20:06</span><a href="/culture/844380"><h3>"Литфонд" впервые проведет аукцион, посвященный истории русского рока</h3></a></div>
+<div data-id="844399"><span>20:03</span><a href="/business/844399"><h3>Торгово-промышленная палата собрала тысячи заявлений о форс-мажоре из-за санкций</h3></a></div>
+<div data-id="844397"><span>19:42</span><a href="/business/844397"><h3>Рубль завершил день снижением к доллару и евро</h3></a></div>
+<div data-id="844396"><span>19:31</span><a href="/business/844396"><h3>ФАС одобрила сделку по покупке российского бизнеса McDonald's</h3></a></div>
+<div data-id="844395"><span>19:23</span><a href="/digital/844395"><h3>Роскомнадзор заблокировал в РФ сайт финской государственной телерадиокомпании Yle</h3></a></div>
+<div data-id="844394"><span>19:18</span><a href="/world/844394"><h3>Власти ЕС предупредили о риске "зерновой войны"</h3></a></div>
+<div data-id="844391"><span>19:07</span><a href="/russia/844391"><h3>Около 30% предприятий Петербурга столкнулись с трудностями из-за западных санкций</h3></a></div>
+<div data-id="844393"><span>19:04</span><a href="/business/844393"><h3>Объем торгов драгметаллами на Мосбирже в мае снизился еще на 12% до 4,1 млрд рублей</h3></a></div>
+<div data-id="844392"><span>18:59</span><a href="/business/844392"><h3>Рынок акций РФ в четверг упал к 2340п по индексу МосБиржи из-за санкций Запада</h3></a></div>
+<div data-id="844390"><span>18:52</span><a href="/russia/844390"><h3>В РФ расширят специалитет, сократят бакалавриат и магистратуру</h3></a></div>
+<div data-id="844389"><span>18:46</span><a href="/business/844389"><h3>Думе предложили упростить подтверждение нулевого НДС при экспорте товаров физлицам</h3></a></div>
+<div data-id="844388"><span>18:33</span><a href="/business/844388"><h3>РФ направит 17 млрд руб. из ФНБ на выкуп облигаций трех российских авиакомпаний</h3></a></div>
+<div data-id="844387"><span>18:31</span><a href="/business/844387"><h3>Зерно в РФ на 2 июня посеяно на 26,8 млн га</h3></a></div>
+<div data-id="844386"><span>18:28</span><a href="/russia/844386"><h3>Экс-замглавы Минпросвещения Ракова останется в СИЗО еще на два месяца</h3></a></div>
+<div data-id="844384"><span>18:11</span><a href="/world/844384"><h3>SpaceX может получить пять дополнительных миссий по доставке астронавтов к МКС</h3></a></div>
+<div data-id="844383"><span>18:05</span><a href="/world/844383"><h3>В Молдавии запретили трансляцию целого ряда программ российских телеканалов</h3></a></div>
+<div data-id="844381"><span>18:04</span><a href="/russia/844381"><h3>Роскомнадзор потребовал удалить еще две статьи "Википедии"</h3></a></div>
+<div data-id="844382"><span>17:57</span><a href="/business/844382"><h3>Акции "Северстали" упали более чем на 12% на фоне санкций против Мордашова</h3></a></div>
+<div data-id="844378"><span>17:50</span><a href="/business/844378"><h3>Рост цен производителей в еврозоне в апреле достиг рекордных 37,2%</h3></a></div>
+<div data-id="844379"><span>17:41</span><a href="/business/844379"><h3>В санкционный список США попали Мордашов с членами семьи и подконтрольные ему компании</h3></a></div>
+<div data-id="844377"><span>17:38</span><a href="/world/844377"><h3>США ввели санкции против Марии Захаровой, Максима Решетникова и еще 15 россиян</h3></a></div>
+<div data-id="844376"><span>17:30</span><a href="/business/844376"><h3>Нацбанк Украины в мае увеличил продажу иностранной валюты в 1,7 раза до $3,4 млрд</h3></a></div>
+<div data-id="844373"><span>17:29</span><a href="/world/844373"><h3>Новые санкции расширяют запрет на экспорт в РФ высокотехнологичных товаров и химикатов</h3></a></div>
+<div data-id="844374"><span>17:24</span><a href="/business/844374"><h3>"Макдоналдс" завершил реорганизацию, присоединив еще три российские "дочки"</h3></a></div>
+<div data-id="844375"><span>17:24</span><a href="/business/844375"><h3>Совет директоров "КАМАЗа "рекомендовал не выплачивать дивиденды за 2021 год</h3></a></div>
+<div data-id="844372"><span>17:15</span><a href="https://www.sport-interfax.ru/844372"><h3>Касаткина проиграла Швентек в полуфинале Roland Garros</h3></a></div>
+<div data-id="844371"><span>17:13</span><a href="/world/844371"><h3>Власти Запорожской области объявили о национализации имущества Украины</h3></a></div>
+<div data-id="844369"><span>17:06</span><a href="/world/844369"><h3>Президент Эстонии отметил, что правительство страны оказалось на грани развала</h3></a></div>
+<div data-id="844370"><span>17:05</span><a href="/russia/844370"><h3>Силуанов предложил обновить стандарты по ремонту дорог</h3></a></div>
+<div data-id="844368"><span>17:01</span><a href="/world/844368"><h3>На Украине дело о госизмене депутата Медведчука передано в суд</h3></a></div>
+<div data-id="844367"><span>16:56</span><a href="/business/844367"><h3>"Свеза" до 6 июня остановила деревообрабатывающий комбинат для поиска рынков сбыта</h3></a></div>
+<div data-id="844364"><span>16:50</span><a href="/world/844364"><h3>Глава МИД Германии выступила за принятие Украины в ЕС</h3></a></div>
+<div data-id="844366"><span>16:50</span><a href="/digital/844366"><h3>Microsoft ухудшила прогноз на апрель-июнь из-за укрепления доллара</h3></a></div>
+<div data-id="844365"><span>16:47</span><a href="/world/844365"><h3>Постпреды стран ЕС одобрили эмбарго на нефть из РФ</h3></a></div>
+<div data-id="844361"><span>16:46</span><a href="/russia/844361"><h3>Рогозин отметил нехватку спутников наблюдения для российских военных</h3></a></div>
+<div data-id="844363"><span>16:43</span><a href="/russia/844363"><h3>Хуснуллин доложил Путину о сокращении "снипов-хрипов" в строительстве</h3></a></div>
+<div data-id="844362"><span>16:40</span><a href="/business/844362"><h3>Министры ОПЕК+ договорились о росте квоты на добычу в июле-августе на 648 тыс. б/с</h3></a></div>
+<div data-id="844359"><span>16:34</span><a href="/russia/844359"><h3>Генпрокуратура добилась блокировки страницы Бориса Вишневского во "ВКонтакте"</h3></a></div>
+<div data-id="844360"><span>16:32</span><a href="/russia/844360"><h3>Около 85% дорог в РФ планируют привести в порядок за пять лет</h3></a></div>
+<div data-id="844358"><span>16:31</span><a href="/russia/844358"><h3>Кассационный суд вернул фонду "Гуманитарное действие" статус НКО-иноагента</h3></a></div>
+<div data-id="844357"><span>16:27</span><a href="https://www.sport-interfax.ru/844357"><h3>"Спартак" подтвердил уход Кутепова</h3></a></div>
+<div data-id="844355"><span>16:22</span><a href="/russia/844355"><h3>Олегу Степанову заменили ограничение свободы на реальный срок по "санитарному делу"</h3></a></div>
+<div data-id="844356"><span>16:18</span><a href="/world/844356"><h3>Задержан министр здравоохранения Киргизии</h3></a></div>
+<div data-id="844351"><span>16:14</span><a href="/business/844351"><h3>"Татнефть" вышла из уставного капитала "Нижнекамскшины"</h3></a></div>
+<div data-id="844354"><span>16:13</span><a href="/business/844354"><h3>Комитет ОПЕК+ рекомендовал увеличить квоты по добыче на 648 тыс. б/с в июле-августе</h3></a></div>
+<div data-id="844353"><span>16:12</span><a href="/business/844353"><h3>Кантор передал 16% акций "Акрона" в управление компании главы СД Попова</h3></a></div>
+<div data-id="844352"><span>16:06</span><a href="/russia/844352"><h3>Рогозин заявил, что "Роскосмос" стал частью Вооруженных сил РФ</h3></a></div>
+<div data-id="844350"><span>16:02</span><a href="/russia/844350"><h3>Минсельхоз сообщил о формировании единой цифровой платформы АПК</h3></a></div>
+<div data-id="844347"><span>15:57</span><a href="/world/844347"><h3>Украина может получить от Швеции противокорабельные ракеты и $59 млн на оборону</h3></a></div>
+<div data-id="844348"><span>15:57</span><a href="/world/844348"><h3>Начались торжества по случаю платинового юбилея Елизаветы II на британском троне</h3></a></div>
+<div data-id="844349"><span>15:56</span><a href="https://www.sport-interfax.ru/844349"><h3>Дубль Неймара с пенальти помог сборной Бразилии разгромить Южную Корею</h3></a></div>
+<div data-id="844346"><span>15:52</span><a href="/world/844346"><h3>Москалькова сообщила об освобождении двух военных из ЛНР в результате обмена</h3></a></div>
+</div><div class="an">
+<div data-id="844339"><span>15:50</span><a href="/business/844339"><h3>ОПЕК+ обсуждает увеличение добычи в июле на 650 тыс. б/с вместо 432 тыс. б/с</h3></a></div>
+<div data-id="844345"><span>15:46</span><a href="/world/844345"><h3>Repsol построит завод для выпуска сверхвысокомолекулярного полиэтилена за 105 млн евро</h3></a></div>
+<div data-id="844343"><span>15:45</span><a href="/russia/844343"><h3>Суд Петербурга разрешил осужденному в Грузии россиянину отбывать наказание на родине</h3></a></div>
+<div data-id="844344"><span>15:44</span><a href="/russia/844344"><h3>"Яблоко" подтвердило отъезд Явлинского за рубеж</h3></a></div>
+<div data-id="844342"><span>15:41</span><a href="/russia/844342"><h3>Матвиенко высказалась за сохранение отношений с Европой на минимальном уровне</h3></a></div>
+<div data-id="844340"><span>15:30</span><a href="/russia/844340"><h3>"Аэрофлот" задерживает на сутки рейс из Шри-Ланки в Москву</h3></a></div>
+<div data-id="844341"><span>15:28</span><a href="/business/844341"><h3>В Минэкономразвития РФ заявили о сохранении кризиса спроса в экономике</h3></a></div>
+<div data-id="844338"><span>15:26</span><a href="/world/844338"><h3>В Белоруссии в мае по "протестным уголовным делам" осуждены 96 человек</h3></a></div>
+<div data-id="844335"><span>15:18</span><a href="/business/844335"><h3>Мишустин пообещал упростить фермерам приобретение сельхозземель</h3></a></div>
+<div data-id="844337"><span>15:15</span><a href="/business/844337"><h3>Решетников указал на риски роста безработицы в РФ с текущих минимальных уровней</h3></a></div>
+<div data-id="844330"><span>15:13</span><a href="/russia/844330"><h3>В Российском авторском обществе сообщили о сохранении интереса к лицензионной музыке</h3></a></div>
+<div data-id="844336"><span>15:13</span><a href="/russia/844336"><h3>В Минцифры допустили снижение ставки по льготной ипотеке для IT-сотрудников до 1%</h3></a></div>
+<div data-id="844334"><span>15:06</span><a href="/russia/844334"><h3>Матвиенко заявила, что продолжение переговоров с Киевом возможно только на условиях РФ</h3></a></div>
+<div data-content="webR" id="pl447_ban214"><style>
+[id*="ban214"]  > .center_desk {
+   min-height: 250px; /*desktop*/
+   overflow-x:hidden;
+/*    max-height: 270px; desktop*/
+}
+[id*="ban214"]  > .center_mob {
+  display: none;
+}
+
+/*ширина страницы до которой применяется стиль*/
+@media only screen and (max-width:760px) { 
+[id*="ban214"]  > .center_desk {
+    display: none; /*desktop*/
+}
+[id*="ban214"]  > .center_mob {
+  display: block;
+  min-height: 250px; /*mobile*/
+   overflow-x:hidden;
+/*  max-height: 270px; mobile*/
+}
+}
+</style>
+<style>
+.yatag__ban > div > yatag  >  yatag {margin-bottom:20px !important; margin-top:20px !important;}
+</style>
+<div class="i_desktop_only center_desk" style="overflow-x:hidden;">
+<!--AdFox START-->
+<!--roden-media-->
+<!--Площадка: Interfax / * / *-->
+<!--Тип баннера: 100%х240 середина-->
+<!--Расположение: <верх страницы>-->
+<div id="adfox_preid"></div>
+<script>
+        window.yaContextCb.push(()=>{
+            var bancont = document.querySelector('[id*=_ban214] #adfox_preid'); // контейнер, в который будет добавлен баннер
+            var randname = Math.random(); // случайное число
+            bancont.setAttribute('id', 'adfox_' + randname);  // установка нового ID контейнеру
+            var temp = document.querySelector('[id="adfox_'+randname +'"]').parents('[id*=_ban214]');
+            if (bancont != null) {
+                   Ya.adfoxCode.createScroll({
+                    ownerId: 173858,
+                    containerId: 'adfox_' + randname, /* новый ID контейнера */
+                    params: {
+                        p1: 'bsqgf',
+                        p2: 'etsw',
+                        puid1: '',
+                        puid2: '',
+                        puid3: '',
+                        puid4: '',
+                        pk: 'авария убийство насилие болезнь коронавирус covid вакцина эпидемия терроризм стрельба оружие война атака смерть',
+                        pke: '1'
+                    },
+                    onStub: function()
+                        {
+                        if (temp[0]) temp[0].setAttribute('style','display:none;');
+                        },
+                    onRender: function()  
+                        {
+                        if (temp[0]) {temp[0].setAttribute('style','display:block;');}
+                        document.querySelector('[id="adfox_'+randname +'"]').setAttribute("style", "margin-bottom:20px;");
+		                if  (temp[0]) { setTimeout(function()  { var ban_val=document.querySelector('[id="adfox_'+randname +'"]').offsetHeight;  if (  ban_val < 60) { temp[0].setAttribute('style','display:none;');}}, 1000);}
+                        }            
+                }, ['desktop', 'tablet'], {
+                    tabletWidth: 1023,
+                    phoneWidth: 760,
+                    isAutoReloads: true
+                });
+        }
+    });	
+</script>
+</div>
+<div class="i_mobile_only center_mob">
+<!--AdFox START-->
+<!--roden-media-->
+<!--Площадка: Interfax / * / *-->
+<!--Тип баннера: 100%х240 середина-->
+<!--Расположение: <верх страницы>-->
+<div id="adfox_preid"></div>
+<script>
+        window.yaContextCb.push(()=>{
+            var bancont = document.querySelector('[id*=_ban214] #adfox_preid'); // контейнер, в который будет добавлен баннер
+            var randname = Math.random(); // случайное число
+            bancont.setAttribute('id', 'adfox_' + randname);  // установка нового ID контейнеру
+            var temp = document.querySelector('[id="adfox_'+randname +'"]').parents('[id*=_ban214]');
+            if (bancont != null) {
+                   Ya.adfoxCode.createScroll({
+                    ownerId: 173858,
+                    containerId: 'adfox_' + randname, /* новый ID контейнера */
+                    params: {
+                        p1: 'bzakf',
+                        p2: 'etsw',
+                        puid1: '',
+                        puid2: '',
+                        puid3: ''
+                    },
+                    onStub: function()   {
+                        if (temp[0]) temp[0].setAttribute('style','display:none;');
+                    },
+                    onRender: function()  
+                    {
+                        if  (temp[0])  temp[0].setAttribute('style','display:block;');
+                        if (document.querySelector('[data-pagetype="quotes"]')) temp[0].setAttribute('style','display:block;margin-bottom:20px;');
+                    }
+                }, ['phone'], {
+                    tabletWidth: 1023,
+                    phoneWidth: 760,
+                    isAutoReloads: true
+            });
+        }	
+    });   
+</script>
+</div>
+</div>
+<div data-id="844332"><span>15:03</span><a href="/business/844332"><h3>Оператор "Острова мечты" отсудил у H&amp;M 538 млн рублей из-за закрытия магазина</h3></a></div>
+<div data-id="844328"><span>15:02</span><a href="/russia/844328"><h3>В Самаре экс-подполковник МВД осужден на 19 лет за убийство 15-летней школьницы</h3></a></div>
+<div data-id="844329"><span>15:02</span><a href="/business/844329"><h3>"Кисточки финанс" допустили техдефолт при выплате 75% номинала бондов на 30 млн рублей</h3></a></div>
+<div data-id="844331"><span>15:02</span><a href="/culture/844331"><h3>Названы финалисты национальной премии "Большой книги"</h3></a></div>
+<div data-id="844333"><span>14:58</span><a href="https://www.sport-interfax.ru/844333"><h3>Футболист сборной Германии Рюдигер перешел из "Челси" в "Реал"</h3></a></div>
+<div data-id="844324"><span>14:47</span><a href="/world/844324"><h3>В офисе социалистической партии Молдавии началась выемка документов</h3></a></div>
+<div data-id="844326"><span>14:47</span><a href="/world/844326"><h3>Власти Эстонии разрешат работу в стране беженцам из РФ и Белоруссии</h3></a></div>
+<div data-id="844327"><span>14:46</span><a href="/moscow/844327"><h3>Суд в Москве оштрафовал Сергея Митрохина на 200 тыс. рублей</h3></a></div>
+<div data-id="844325"><span>14:45</span><a href="/world/844325"><h3>Порт Бердянска планируется разминировать через трое суток</h3></a></div>
+<div data-id="844323"><span>14:40</span><a href="/business/844323"><h3>"АвтоВАЗ" частично продлил простой на автосборочном производстве в Тольятти</h3></a></div>
+<div data-id="844322"><span>14:33</span><a href="/digital/844322"><h3>Минцифры закупит у "Ростелекома" мощности для "Гособлака" на 1,8 млрд рублей</h3></a></div>
+<div data-id="844319"><span>14:29</span><a href="/russia/844319"><h3>Патрушев отметил важность усиления роли государства и отпора зарубежным спецслужбам</h3></a></div>
+<div data-id="844321"><span>14:28</span><a href="/business/844321"><h3>Цены на нефть снизились более чем на 2,5% перед встречей ОПЕК+</h3></a></div>
+<div data-id="844318"><span>14:21</span><a href="/russia/844318"><h3>Запущены первые автобусные чартеры на курорты юга России</h3></a></div>
+<div data-id="844320"><span>14:21</span><a href="/russia/844320"><h3>Роскомнадзор заявил об ограничении работы Proton VPN и других сервисов</h3></a></div>
+<div data-id="844317"><span>14:15</span><a href="/world/844317"><h3>Нацбанк Украины неожиданно повысил учетную ставку с 10% до 25%</h3></a></div>
+<div data-id="844316"><span>14:12</span><a href="/business/844316"><h3>Выводить деньги и ценные бумаги от брокеров под санкциями можно будет без уплаты НДФЛ</h3></a></div>
+<div data-id="844314"><span>14:09</span><a href="/russia/844314"><h3>В Екатеринбурге провели эвакуацию в СИЗО из-за угрозы взрыва</h3></a></div>
+<div data-id="844315"><span>14:06</span><a href="https://www.sport-interfax.ru/844315"><h3>Полузащитник Хуан Мата покинул "Манчестер Юнайтед"</h3></a></div>
+<div data-id="844313"><span>14:05</span><a href="/russia/844313"><h3>Банкротство экс-владельцев "ВИМ-Авиа" Мурсекаевых продлено до конца ноября</h3></a></div>
+<div data-id="844311"><span>13:56</span><a href="/russia/844311"><h3>Суд оставил без изменения приговор экс-главе Марий Эл Маркелову</h3></a></div>
+<div data-id="844312"><span>13:54</span><a href="/world/844312"><h3>Инки давали наркотики детям, прежде чем принести их в жертву</h3></a></div>
+<div data-id="844309"><span>13:52</span><a href="/russia/844309"><h3>Песков подтвердил отставку советника президента Юмашева</h3></a></div>
+<div data-id="844310"><span>13:49</span><a href="/russia/844310"><h3>Степашин сообщил о начале создания в РФ альтернативного ЕСПЧ суда</h3></a></div>
+<div data-id="844307"><span>13:43</span><a href="/moscow/844307"><h3>Дождь, гроза и сильный ветер ожидаются в Москве вечером</h3></a></div>
+<div data-id="844308"><span>13:40</span><a href="/world/844308"><h3>Норвегия возобновила производство на своем заводе СПГ</h3></a></div>
+<div data-id="844306"><span>13:31</span><a href="/russia/844306"><h3>Песков сказал, что для референдумов на украинских территориях нужны определенные условия</h3></a></div>
+<div data-id="844301"><span>13:29</span><a href="/business/844301"><h3>OR Group не будет публиковать квартальный отчет по РСБУ</h3></a></div>
+<div data-id="844303"><span>13:24</span><a href="/russia/844303"><h3>В Симферополе задержали катавшихся по городу на матрасе блогеров</h3></a></div>
+<div data-id="844305"><span>13:21</span><a href="https://www.sport-interfax.ru/844305"><h3>Бельгийский футболист "Спартака" заявил, что не собирается покидать Россию</h3></a></div>
+<div data-id="844302"><span>13:18</span><a href="/russia/844302"><h3>Песков переадресовал правоохранительным органам вопрос о ситуации вокруг Чубайса</h3></a></div>
+<div data-id="844304"><span>13:18</span><a href="/russia/844304"><h3>Песков заявил об отсутствии у РФ планов закрывать "окно в Европу"</h3></a></div>
+<div data-id="844300"><span>13:16</span><a href="/russia/844300"><h3>В Кремле заявили, что Россия не собирается продавать нефть себе в убыток</h3></a></div>
+<div data-id="844296"><span>13:10</span><a href="/russia/844296"><h3>Путин присвоил звание генерал-лейтенанта главе МЧС Куренкову</h3></a></div>
+<div data-id="844298"><span>13:10</span><a href="/business/844298"><h3>Зимбабве попросило РФ увеличить ввоз пшеницы и начать поставки нефтепродуктов</h3></a></div>
+<div data-id="844299"><span>13:07</span><a href="/russia/844299"><h3>Песков заявил, что в Кремле не обсуждают вопрос о возвращении смертной казни</h3></a></div>
+<div data-id="844297"><span>13:02</span><a href="https://www.sport-interfax.ru/844297"><h3>Глава союза спортсменов высоко оценил шансы восстановления прав атлетов из РФ</h3></a></div>
+<div data-id="844294"><span>13:00</span><a href="/russia/844294"><h3>В Свердловской области возник дефицит мест в детских лагерях отдыха</h3></a></div>
+<div data-id="844295"><span>12:59</span><a href="/russia/844295"><h3>Суд отказался отсрочить решение о ликвидации центра "Мемориал"</h3></a></div>
+<div data-id="844293"><span>12:57</span><a href="/business/844293"><h3>В Сбербанке сочли, что для соблюдения нормативов достаточно капитализации прибыли 2021 г.</h3></a></div>
+<div data-id="844286"><span>12:49</span><a href="/business/844286"><h3>ВС не стал пересматривать решение о незаконности доначисления "Роснефти" 5,8 млрд рублей пошлин</h3></a></div>
+<div data-id="844290"><span>12:49</span><a href="/digital/844290"><h3>Доля закупок российского ПО в госкомпаниях будет увеличена до 80%</h3></a></div>
+<div data-id="844284"><span>12:47</span><a href="/business/844284"><h3>В ожидании девятого вала: баррель Brent за $150 все ближе? Обзор</h3></a></div>
+<div data-id="844289"><span>12:47</span><a href="/business/844289"><h3>Терминалы Усть-Луги готовы передать часть мощностей под управление Белоруссии</h3></a></div>
+<div data-id="844285"><span>12:44</span><a href="/business/844285"><h3>Личные средства главы ФРС Пауэлла вложены в фонды акций и муниципальных бондов</h3></a></div>
+<div data-id="844288"><span>12:40</span><a href="/world/844288"><h3>Китай вывел на орбиту группу спутников связи Geely-01</h3></a></div>
+<div data-id="844287"><span>12:39</span><a href="/business/844287"><h3>Системные операторы Балтии уменьшат зависимость от российских резервов</h3></a></div>
+<div data-id="844274"><span>12:32</span><a href="/business/844274"><h3>Анатолий Карачинский перестал быть владельцем холдинговой компании IBS</h3></a></div>
+<div data-id="844283"><span>12:32</span><a href="/russia/844283"><h3>Волгоградец получил 24,5 года за удушение пенсионерки подушкой в 2014 году</h3></a></div>
+<div data-id="844282"><span>12:08</span><a href="/russia/844282"><h3>Жена Сергея Удальцова Анастасия станет депутатом Госдумы</h3></a></div>
+<div data-id="844277"><span>12:05</span><a href="/business/844277"><h3>Ассоциация кондитеров признала сложности с логистикой и импортом сырья и упаковки</h3></a></div>
+<div data-id="844281"><span>12:03</span><a href="/russia/844281"><h3>Треть россиян выступила за запрет езды на электросамокатах на тротуарах</h3></a></div>
+<div data-id="844280"><span>11:59</span><a href="/world/844280"><h3>Минобороны РФ заявило о сокращении числа иностранных наемников на Украине почти вдвое</h3></a></div>
+<div data-id="844278"><span>11:57</span><a href="/moscow/844278"><h3>В Москве построят изогнутый пешеходный мост через Нагатинский затон</h3></a></div>
+<div data-id="844279"><span>11:57</span><a href="/russia/844279"><h3>"Аэрофлот" с 6 июня передаст авиакомпании "Россия" свои рейсы из Красноярска</h3></a></div>
+<div data-id="844275"><span>11:53</span><a href="/russia/844275"><h3>В РФ за сутки COVID-19 выявили у 4 262 человек</h3></a></div>
+<div data-id="844276"><span>11:47</span><a href="/world/844276"><h3>Глава ЛНР назвал целью республики вхождение в состав России</h3></a></div>
+</div><div class="an">
+<div data-id="844271"><span>11:46</span><a href="/business/844271"><h3>Японские участники "Сахалина-1" не представлвяют, как Exxon будет выходить из проекта</h3></a></div>
+<div data-id="844272"><span>11:44</span><a href="https://www.sport-interfax.ru/844272"><h3>Покинувший московское "Динамо" Сандро Шварц возглавил "Герту"</h3></a></div>
+<div data-id="844273"><span>11:42</span><a href="/russia/844273"><h3>Суд приостановил подготовительную выработку на двух угольных шахтах Evraz в Кузбассе</h3></a></div>
+<div data-id="844270"><span>11:38</span><a href="/business/844270"><h3>Минпромторг сообщил о переговорах о замене шведских комплектующих для подшипников</h3></a></div>
+<div data-id="844269"><span>11:31</span><a href="/world/844269"><h3>Украина увеличит поставки электроэнергии в Польшу за счет ввода ЛЭП ХАЭС-Жешув</h3></a></div>
+<div data-id="844268"><span>11:29</span><a href="/business/844268"><h3>Шэрил Сэндберг покинет пост COO Meta после 14 лет работы</h3></a></div>
+<div data-id="844267"><span>11:25</span><a href="/business/844267"><h3>У трейдера "Калита" нет денег на проведение собрания держателей облигаций</h3></a></div>
+<div data-id="844266"><span>11:19</span><a href="/moscow/844266"><h3>В Москве открылись почти 300 точек по продаже клубники</h3></a></div>
+<div data-id="844265"><span>11:16</span><a href="/business/844265"><h3>"СИБУР" сообщил о переориентировке почти всех продаж из Европы в Турцию и Азию</h3></a></div>
+<div data-id="844256"><span>11:13</span><a href="/russia/844256"><h3>Полномочия МВД по хранению изъятого оружия могут ограничить</h3></a></div>
+<div data-id="844264"><span>11:13</span><a href="/russia/844264"><h3>В Госдуме до летних каникул подготовят KPI для оценки работы комитетов</h3></a></div>
+<div data-id="844262"><span>11:03</span><a href="/russia/844262"><h3>Приговоренный к 21 году колонии за педофилию священник обжаловал приговор</h3></a></div>
+<div data-id="844260"><span>10:57</span><a href="/business/844260"><h3>Минфин готов урегулировать претензии инвесторов о доппроцентах по евробондам "Россия-2022"</h3></a></div>
+<div data-content="webR" id="pl447_ban214"><style>
+[id*="ban214"]  > .center_desk {
+   min-height: 250px; /*desktop*/
+   overflow-x:hidden;
+/*    max-height: 270px; desktop*/
+}
+[id*="ban214"]  > .center_mob {
+  display: none;
+}
+
+/*ширина страницы до которой применяется стиль*/
+@media only screen and (max-width:760px) { 
+[id*="ban214"]  > .center_desk {
+    display: none; /*desktop*/
+}
+[id*="ban214"]  > .center_mob {
+  display: block;
+  min-height: 250px; /*mobile*/
+   overflow-x:hidden;
+/*  max-height: 270px; mobile*/
+}
+}
+</style>
+<style>
+.yatag__ban > div > yatag  >  yatag {margin-bottom:20px !important; margin-top:20px !important;}
+</style>
+<div class="i_desktop_only center_desk" style="overflow-x:hidden;">
+<!--AdFox START-->
+<!--roden-media-->
+<!--Площадка: Interfax / * / *-->
+<!--Тип баннера: 100%х240 середина-->
+<!--Расположение: <верх страницы>-->
+<div id="adfox_preid"></div>
+<script>
+        window.yaContextCb.push(()=>{
+            var bancont = document.querySelector('[id*=_ban214] #adfox_preid'); // контейнер, в который будет добавлен баннер
+            var randname = Math.random(); // случайное число
+            bancont.setAttribute('id', 'adfox_' + randname);  // установка нового ID контейнеру
+            var temp = document.querySelector('[id="adfox_'+randname +'"]').parents('[id*=_ban214]');
+            if (bancont != null) {
+                   Ya.adfoxCode.createScroll({
+                    ownerId: 173858,
+                    containerId: 'adfox_' + randname, /* новый ID контейнера */
+                    params: {
+                        p1: 'bsqgf',
+                        p2: 'etsw',
+                        puid1: '',
+                        puid2: '',
+                        puid3: '',
+                        puid4: '',
+                        pk: 'авария убийство насилие болезнь коронавирус covid вакцина эпидемия терроризм стрельба оружие война атака смерть',
+                        pke: '1'
+                    },
+                    onStub: function()
+                        {
+                        if (temp[0]) temp[0].setAttribute('style','display:none;');
+                        },
+                    onRender: function()  
+                        {
+                        if (temp[0]) {temp[0].setAttribute('style','display:block;');}
+                        document.querySelector('[id="adfox_'+randname +'"]').setAttribute("style", "margin-bottom:20px;");
+		                if  (temp[0]) { setTimeout(function()  { var ban_val=document.querySelector('[id="adfox_'+randname +'"]').offsetHeight;  if (  ban_val < 60) { temp[0].setAttribute('style','display:none;');}}, 1000);}
+                        }            
+                }, ['desktop', 'tablet'], {
+                    tabletWidth: 1023,
+                    phoneWidth: 760,
+                    isAutoReloads: true
+                });
+        }
+    });	
+</script>
+</div>
+<div class="i_mobile_only center_mob">
+<!--AdFox START-->
+<!--roden-media-->
+<!--Площадка: Interfax / * / *-->
+<!--Тип баннера: 100%х240 середина-->
+<!--Расположение: <верх страницы>-->
+<div id="adfox_preid"></div>
+<script>
+        window.yaContextCb.push(()=>{
+            var bancont = document.querySelector('[id*=_ban214] #adfox_preid'); // контейнер, в который будет добавлен баннер
+            var randname = Math.random(); // случайное число
+            bancont.setAttribute('id', 'adfox_' + randname);  // установка нового ID контейнеру
+            var temp = document.querySelector('[id="adfox_'+randname +'"]').parents('[id*=_ban214]');
+            if (bancont != null) {
+                   Ya.adfoxCode.createScroll({
+                    ownerId: 173858,
+                    containerId: 'adfox_' + randname, /* новый ID контейнера */
+                    params: {
+                        p1: 'bzakf',
+                        p2: 'etsw',
+                        puid1: '',
+                        puid2: '',
+                        puid3: ''
+                    },
+                    onStub: function()   {
+                        if (temp[0]) temp[0].setAttribute('style','display:none;');
+                    },
+                    onRender: function()  
+                    {
+                        if  (temp[0])  temp[0].setAttribute('style','display:block;');
+                        if (document.querySelector('[data-pagetype="quotes"]')) temp[0].setAttribute('style','display:block;margin-bottom:20px;');
+                    }
+                }, ['phone'], {
+                    tabletWidth: 1023,
+                    phoneWidth: 760,
+                    isAutoReloads: true
+            });
+        }	
+    });   
+</script>
+</div>
+</div>
+<div data-id="844259"><span>10:46</span><a href="/business/844259"><h3>Владимир Жуков стал вице-президентом "Норникеля" по IR и устойчивому развитию</h3></a></div>
+<div data-id="844258"><span>10:44</span><a href="/business/844258"><h3>Котировки "Мосэнерго" подскочили более чем на 5% на новостях о дивидендах</h3></a></div>
+<div data-id="844257"><span>10:42</span><a href="/russia/844257"><h3>HP Enterprise списала $126 млн во II финквартале в связи с уходом из России</h3></a></div>
+<div data-id="844254"><span>10:32</span><a href="/world/844254"><h3>Эстония отменит связанный с COVID-19 режим ЧС в сфере здравоохранения</h3></a></div>
+<div data-id="844255"><span>10:29</span><a href="/russia/844255"><h3>Минсельхоз приостановил согласование заявок на льготную перевозку сельхозгрузов</h3></a></div>
+<div data-id="844252"><span>10:23</span><a href="/russia/844252"><h3>Бывший замгендирекитора ЦЭНКИ Арустамов получил девять лет строгого режима</h3></a></div>
+<div data-id="844253"><span>10:23</span><a href="/business/844253"><h3>Рынок акций РФ открылся снижением индексов МосБиржи и РТС на 0,1-0,2%</h3></a></div>
+<div data-id="844251"><span>10:21</span><a href="/business/844251"><h3>Рубль демонстрирует небольшие разнонаправленные колебания на старте торгов</h3></a></div>
+<div data-id="844250"><span>10:16</span><a href="/business/844250"><h3>Тихвинский вагоностроительный завод в июне останется в простое</h3></a></div>
+<div data-id="844247"><span>10:09</span><a href="/russia/844247"><h3>Белорусский психолог арестован в Петербурге по делу об оскорблении Лукашенко</h3></a></div>
+<div data-id="844248"><span>10:05</span><a href="/business/844248"><h3>Remy Cointreau увеличила выручку на 30% в 2022 фингоду, до рекорда</h3></a></div>
+<div data-id="844249"><span>10:02</span><a href="/russia/844249"><h3>В Комсомольске-на-Амуре кладбище снова закрыли из-за медведей</h3></a></div>
+<div data-id="844246"><span>10:01</span><a href="/russia/844246"><h3>Ивановские власти назвали фейком информацию о введении особого радиационного режима</h3></a></div>
+<div data-id="844245"><span>09:44</span><a href="/culture/844245"><h3>Более 200 произведений Врубеля покажут в Русском музее в честь 165-летия художника</h3></a></div>
+<div data-id="844244"><span>09:40</span><a href="/russia/844244"><h3>Первоуральские спасатели освободили запутавшегося в ветках павлина</h3></a></div>
+<div data-id="844242"><span>09:22</span><a href="/business/844242"><h3>Заявка на прокачку газа через Украину осталась на уровне предыдущих дней</h3></a></div>
+<div data-id="844243"><span>09:15</span><a href="/business/844243"><h3>Индийская Tata Power ликвидирует "дочку" на Камчатке</h3></a></div>
+<div data-id="844241"><span>09:11</span><a href="/business/844241"><h3>"Татнефть" не планирует сокращать добычу нефти, несмотря на санкции</h3></a></div>
+<div data-id="844240"><span>09:00</span><a href="/russia/844240"><h3>"Роскосмос" задумался о продолжении использования телескопа E-ROSITA</h3></a></div>
+<div data-id="844239"><span>08:45</span><a href="/russia/844239"><h3>Тайвань запретил экспорт в Россию чипов с тактовой частотой более 25 МГц</h3></a></div>
+<div data-id="844238"><span>08:42</span><a href="/business/844238"><h3>Brent подешевела до $114,16 за баррель</h3></a></div>
+<div data-id="844237"><span>08:35</span><a href="/digital/844237"><h3>В программу льготной IT-ипотеки вошли 49 банков и три региональных оператора</h3></a></div>
+<div data-id="844235"><span>08:28</span><a href="/business/844235"><h3>ВТБ намерен докапитализировать свой дочерний банк в Казахстане</h3></a></div>
+<div data-id="844236"><span>08:23</span><a href="/russia/844236"><h3>В Астрахани загорелся торговый центр "Айсберг"</h3></a></div>
+<div data-id="844234"><span>08:16</span><a href="/russia/844234"><h3>В Набережных Челнах задержан подозреваемый в стрельбе по окнам театра</h3></a></div>
+<div data-id="844233"><span>08:08</span><a href="/business/844233"><h3>МКБ опубликовал сокращенный годовой отчет вопреки тенденции закрывать данные</h3></a></div>
+<div data-id="844232"><span>08:00</span><a href="/business/844232"><h3>Резиденты недружественных стран смогут дарить ценные бумаги родственникам-россиянам</h3></a></div>
+<div data-id="844231"><span>07:47</span><a href="/digital/844231"><h3>Минцифры не увидело перспектив у азиатского ПО на российском рынке</h3></a></div>
+<div data-id="844230"><span>07:44</span><a href="/russia/844230"><h3>Минюст РФ предложил сократить максимальные наказания за ряд налоговых преступлений</h3></a></div>
+<div data-id="844222"><span>07:30</span><a href="/world/844222"><h3>Что случилось этой ночью: четверг, 2 июня</h3></a></div>
+<div data-id="844229"><span>07:24</span><a href="/business/844229"><h3>Мораторий на блокировку счетов должников по налогам продлили до 1 июля</h3></a></div>
+<div data-id="844228"><span>07:19</span><a href="/business/844228"><h3>Налоговые отчисления московских производителей напитков превысили 1 млрд рублей</h3></a></div>
+<div data-id="844227"><span>06:43</span><a href="/world/844227"><h3>Великобритания попросила у США одобрения плана на отправку РСЗО на Украину</h3></a></div>
+<div data-id="844226"><span>06:39</span><a href="/business/844226"><h3>Правительство РФ освободило от квот экспорт ряда удобрений</h3></a></div>
+<div data-id="844225"><span>06:35</span><a href="/business/844225"><h3>Уолл-стрит закрылась в минусе на опасениях ужесточения ДКП</h3></a></div>
+<div data-id="844224"><span>06:33</span><a href="/russia/844224"><h3>Страны ВОЗ из Европы и ЕАЭС попросили Роспотребнадзор помочь в борьбе с оспой обезьян</h3></a></div>
+<div data-id="844223"><span>06:26</span><a href="https://www.sport-interfax.ru/844223"><h3>"Рейнджерс" обыграли "Тампу" в первом матче полуфинала Кубка Стэнли</h3></a></div>
+<div data-id="844221"><span>05:43</span><a href="/russia/844221"><h3>Обязательный ЕГЭ по профильной математике 2 июня сдадут около 307 тысяч участников</h3></a></div>
+<div data-id="844220"><span>04:55</span><a href="/russia/844220"><h3>Расчеты БРК "Бастион" ТОФ в ходе учений отработали задачи по обороне побережья Приморья</h3></a></div>
+<div data-id="844219"><span>04:17</span><a href="/russia/844219"><h3>Жителя Забайкальского края осудили за попытку продать 23 слитка золота</h3></a></div>
+<div data-id="844218"><span>03:46</span><a href="/business/844218"><h3>Датский производитель счетчиков Kamstrup объявил об уходе с рынков России и Белоруссии</h3></a></div>
+<div data-id="844217"><span>02:54</span><a href="/world/844217"><h3>Полиция Талсы подтвердила гибель четырех человек</h3></a></div>
+<div data-id="844216"><span>02:51</span><a href="/business/844216"><h3>"Аэрофлот" начал выполнять беспосадочные рейсы из Санкт-Петербурга во Владивосток</h3></a></div>
+<div data-id="844215"><span>02:22</span><a href="/world/844215"><h3>В американском городе Талса сообщили о нескольких погибших в результате стрельбы</h3></a></div>
+<div data-id="844214"><span>01:52</span><a href="/world/844214"><h3>Глава Интерпола заявил, что часть поставляемого Украине оружия попадет к преступникам</h3></a></div>
+<div data-id="844213"><span>01:15</span><a href="/russia/844213"><h3>Власти Приморского края отменили масочный режим</h3></a></div>
+<div data-id="844212"><span>00:56</span><a href="/russia/844212"><h3>Эксперт Роспотребнадзора не исключил нового роста заболеваемости COVID-19 летом</h3></a></div>
+<div data-id="844211"><span>00:34</span><a href="/business/844211"><h3>Байден заявил, что в ЕС обсуждают идею покупки российской нефти по цене ниже рыночной</h3></a></div>
+<div data-id="844210"><span>00:11</span><a href="https://www.sport-interfax.ru/844210"><h3>Сборная Аргентины по футболу разгромила Италию и выиграла "Финалиссиму"</h3></a></div>
+<div data-id="844209"><span>00:01</span><a href="/world/844209"><h3>ООН одобрила смену международного названия Турции</h3></a></div>
+</div><div class="an">
+<div data-id="844658"><span>23:43</span><a href="https://www.sport-interfax.ru/844658"><h3>Рууд победил Чилича и сыграет в финале Roland Garros-2022 с Надалем</h3></a></div>
+<div data-id="844657"><span>23:24</span><a href="/world/844657"><h3>Генсек НАТО сообщил о конструктивном разговоре с президентом Турции</h3></a></div>
+<div data-id="844656"><span>23:20</span><a href="/world/844656"><h3>ЕК выделит более 4 млн евро на защиту свободы и плюрализма СМИ</h3></a></div>
+<div data-id="844655"><span>22:56</span><a href="/world/844655"><h3>Число пострадавших в столкновениях в Ереване достигло 50 человек</h3></a></div>
+<div data-id="844654"><span>22:48</span><a href="/world/844654"><h3>Премьер Грузии заявил, что страна видит себя в составе ЕС через 5-10 лет</h3></a></div>
+<div data-id="844653"><span>22:22</span><a href="/world/844653"><h3>ЕС и США усилят координацию по обеспечению экспортного контроля в отношении РФ</h3></a></div>
+<div data-id="844652"><span>22:05</span><a href="/world/844652"><h3>Макрон призвал ускорить производство вооружения для укрепления независимости Франции</h3></a></div>
+<div data-id="844651"><span>21:48</span><a href="/moscow/844651"><h3>"Шереметьево" приостановит движение межтерминальных подземных поездов 6 июня</h3></a></div>
+<div data-id="844648"><span>21:40</span><a href="/world/844648"><h3>Число пострадавших в столкновениях в Ереване превысило 40 человек</h3></a></div>
+<div data-id="844649"><span>21:36</span><a href="/world/844649"><h3>Сенаторы США призвали ввести санкции против большего числа россиян из-за Украины</h3></a></div>
+<div data-id="844641"><span>21:30</span><a href="/world/844641"><h3>REBCO prohibited: ЕС запрещает импорт нефти и нефтепродуктов РФ с оговорками. Обзор</h3></a></div>
+<div data-id="844646"><span>21:23</span><a href="/world/844646"><h3>США, Германия, Франция и Италия могут войти в состав трибунала над украинскими военными</h3></a></div>
+<div data-id="844647"><span>21:14</span><a href="/russia/844647"><h3>Бизнесмен Чичваркин, журналисты Кашин и Пивоваров признаны иноагентами</h3></a></div>
+<div data-content="webR" id="pl447_ban214"><style>
+[id*="ban214"]  > .center_desk {
+   min-height: 250px; /*desktop*/
+   overflow-x:hidden;
+/*    max-height: 270px; desktop*/
+}
+[id*="ban214"]  > .center_mob {
+  display: none;
+}
+
+/*ширина страницы до которой применяется стиль*/
+@media only screen and (max-width:760px) { 
+[id*="ban214"]  > .center_desk {
+    display: none; /*desktop*/
+}
+[id*="ban214"]  > .center_mob {
+  display: block;
+  min-height: 250px; /*mobile*/
+   overflow-x:hidden;
+/*  max-height: 270px; mobile*/
+}
+}
+</style>
+<style>
+.yatag__ban > div > yatag  >  yatag {margin-bottom:20px !important; margin-top:20px !important;}
+</style>
+<div class="i_desktop_only center_desk" style="overflow-x:hidden;">
+<!--AdFox START-->
+<!--roden-media-->
+<!--Площадка: Interfax / * / *-->
+<!--Тип баннера: 100%х240 середина-->
+<!--Расположение: <верх страницы>-->
+<div id="adfox_preid"></div>
+<script>
+        window.yaContextCb.push(()=>{
+            var bancont = document.querySelector('[id*=_ban214] #adfox_preid'); // контейнер, в который будет добавлен баннер
+            var randname = Math.random(); // случайное число
+            bancont.setAttribute('id', 'adfox_' + randname);  // установка нового ID контейнеру
+            var temp = document.querySelector('[id="adfox_'+randname +'"]').parents('[id*=_ban214]');
+            if (bancont != null) {
+                   Ya.adfoxCode.createScroll({
+                    ownerId: 173858,
+                    containerId: 'adfox_' + randname, /* новый ID контейнера */
+                    params: {
+                        p1: 'bsqgf',
+                        p2: 'etsw',
+                        puid1: '',
+                        puid2: '',
+                        puid3: '',
+                        puid4: '',
+                        pk: 'авария убийство насилие болезнь коронавирус covid вакцина эпидемия терроризм стрельба оружие война атака смерть',
+                        pke: '1'
+                    },
+                    onStub: function()
+                        {
+                        if (temp[0]) temp[0].setAttribute('style','display:none;');
+                        },
+                    onRender: function()  
+                        {
+                        if (temp[0]) {temp[0].setAttribute('style','display:block;');}
+                        document.querySelector('[id="adfox_'+randname +'"]').setAttribute("style", "margin-bottom:20px;");
+		                if  (temp[0]) { setTimeout(function()  { var ban_val=document.querySelector('[id="adfox_'+randname +'"]').offsetHeight;  if (  ban_val < 60) { temp[0].setAttribute('style','display:none;');}}, 1000);}
+                        }            
+                }, ['desktop', 'tablet'], {
+                    tabletWidth: 1023,
+                    phoneWidth: 760,
+                    isAutoReloads: true
+                });
+        }
+    });	
+</script>
+</div>
+<div class="i_mobile_only center_mob">
+<!--AdFox START-->
+<!--roden-media-->
+<!--Площадка: Interfax / * / *-->
+<!--Тип баннера: 100%х240 середина-->
+<!--Расположение: <верх страницы>-->
+<div id="adfox_preid"></div>
+<script>
+        window.yaContextCb.push(()=>{
+            var bancont = document.querySelector('[id*=_ban214] #adfox_preid'); // контейнер, в который будет добавлен баннер
+            var randname = Math.random(); // случайное число
+            bancont.setAttribute('id', 'adfox_' + randname);  // установка нового ID контейнеру
+            var temp = document.querySelector('[id="adfox_'+randname +'"]').parents('[id*=_ban214]');
+            if (bancont != null) {
+                   Ya.adfoxCode.createScroll({
+                    ownerId: 173858,
+                    containerId: 'adfox_' + randname, /* новый ID контейнера */
+                    params: {
+                        p1: 'bzakf',
+                        p2: 'etsw',
+                        puid1: '',
+                        puid2: '',
+                        puid3: ''
+                    },
+                    onStub: function()   {
+                        if (temp[0]) temp[0].setAttribute('style','display:none;');
+                    },
+                    onRender: function()  
+                    {
+                        if  (temp[0])  temp[0].setAttribute('style','display:block;');
+                        if (document.querySelector('[data-pagetype="quotes"]')) temp[0].setAttribute('style','display:block;margin-bottom:20px;');
+                    }
+                }, ['phone'], {
+                    tabletWidth: 1023,
+                    phoneWidth: 760,
+                    isAutoReloads: true
+            });
+        }	
+    });   
+</script>
+</div>
+</div>
+<div data-id="844644"><span>21:04</span><a href="/world/844644"><h3>Путин заявил, проще и дешевле вывезти украинское зерно через Белоруссию</h3></a></div>
+<div data-id="844642"><span>20:59</span><a href="/world/844642"><h3>Путин готов предоставить порты Мариуполя и Бердянска для вывоза украинского зерна</h3></a></div>
+<div data-id="844643"><span>20:57</span><a href="/world/844643"><h3>Путин назвал блефом утверждения о невыпуске Россией украинского зерна из портов</h3></a></div>
+<div data-id="844640"><span>20:46</span><a href="/business/844640"><h3>РФ может увеличить экспорт зерна в следующем сельхозгоду с 37 до 50 млн тонн</h3></a></div>
+<div data-id="844639"><span>20:31</span><a href="/russia/844639"><h3>Путин гарантирует безопасный проход судов с украинской пшеницей без каких-либо условий</h3></a></div>
+<div data-id="844590"><span>20:30</span><a href="/russia/844590"><h3>Что произошло за день: пятница, 3 июня</h3></a></div>
+<div data-id="844638"><span>20:23</span><a href="/business/844638"><h3>НРД из-за санкций ЕС приостанавливает в банковской деятельности проведение операций в евро</h3></a></div>
+<div data-id="844637"><span>20:20</span><a href="/russia/844637"><h3>Путин заявил, что проблемы на мировом рынке продовольствия начались до операции на Украине</h3></a></div>
+<div data-id="844635"><span>20:13</span><a href="/world/844635"><h3>В МИД Франции заявили о гибели француза во время боев на Украине</h3></a></div>
+<div data-id="844636"><span>20:04</span><a href="/russia/844636"><h3>МИД РФ заявил протест послу Шри-Ланки из-за задержания самолета "Аэрофлота"</h3></a></div>
+<div data-id="844632"><span>20:03</span><a href="/world/844632"><h3>Эрдоган потребовал от Швеции и Финляндии доказать их непричастность к поддержке терроризма</h3></a></div>
+<div data-id="844634"><span>20:01</span><a href="/world/844634"><h3>В Ереване начались столкновения с полицией у резиденции премьера Армении</h3></a></div>
+<div data-id="844633"><span>19:56</span><a href="/russia/844633"><h3>Казачьи ЧОПы могут стать единственными поставщиками охранных услуг соцобъектов</h3></a></div>
+<div data-id="844631"><span>19:49</span><a href="/business/844631"><h3>BCS GM прогнозирует совокупный убыток по EBITDA нефтеотрасли РФ от эмбарго ЕС ниже 10%</h3></a></div>
+<div data-id="844629"><span>19:40</span><a href="https://www.sport-interfax.ru/844629"><h3>Медведев 13 июня вновь станет первой ракеткой мира</h3></a></div>
+<div data-id="844630"><span>19:30</span><a href="/world/844630"><h3>ЕС дал срок до сентября на выход из "досанкционных" СП с российскими госкомпаниями</h3></a></div>
+<div data-id="844628"><span>19:28</span><a href="https://www.sport-interfax.ru/844628"><h3>Надаль в 14-й раз вышел в финал Roland Garros</h3></a></div>
+<div data-id="844627"><span>19:14</span><a href="/business/844627"><h3>Акционеры "Норникеля" одобрили выплату 1 166 руб. на акцию за 2021 год</h3></a></div>
+<div data-id="844625"><span>19:12</span><a href="/russia/844625"><h3>Россия с 14 июня снимет COVID-ограничения для ряда иностранных туристов</h3></a></div>
+<div data-id="844626"><span>19:10</span><a href="/business/844626"><h3>Mazda отзовет в РФ 19,8 тыс. автомобилей из-за проблем с топливным насосом</h3></a></div>
+<div data-id="844624"><span>19:06</span><a href="/business/844624"><h3>Выросшая нефть сдержала снижение рынка акций РФ в пятницу</h3></a></div>
+<div data-id="844623"><span>19:02</span><a href="/world/844623"><h3>Два человека подорвались на пляже в Мариуполе</h3></a></div>
+<div data-id="844622"><span>19:01</span><a href="/business/844622"><h3>Акционеры ВТБ решили отказаться от выплат дивидендов за 2021 год</h3></a></div>
+<div data-id="844621"><span>19:00</span><a href="/business/844621"><h3>Marriott International приостановила деятельность в РФ</h3></a></div>
+<div data-id="844620"><span>18:55</span><a href="/world/844620"><h3>Байден допустил, что сверхплановой прибавки ОПЕК+ будет недостаточно</h3></a></div>
+<div data-id="844619"><span>18:42</span><a href="/business/844619"><h3>Экс-глава "СИБУРа" Конов оспорил в суде ЕС включение в санкционный список</h3></a></div>
+<div data-id="844617"><span>18:38</span><a href="/business/844617"><h3>Минфин собрался расширить круг сделок, подпадающих под "антиуклонительные" нормы НК</h3></a></div>
+<div data-id="844618"><span>18:33</span><a href="/world/844618"><h3>Байден выразил надежду на урегулирование путем переговоров ситуации на Украине</h3></a></div>
+<div data-id="844616"><span>18:25</span><a href="/business/844616"><h3>ФАС предложила повысить регулируемые цены "Газпрома" для промышленности на 5%</h3></a></div>
+<div data-id="844613"><span>18:12</span><a href="/world/844613"><h3>В ЛНР заблокировали мессенджер Viber из соображений безопасности</h3></a></div>
+<div data-id="844615"><span>18:12</span><a href="/world/844615"><h3>Россия попросила Шри-Ланку разрешить вылет арестованному самолету "Аэрофлота"</h3></a></div>
+<div data-id="844614"><span>18:11</span><a href="https://www.sport-interfax.ru/844614"><h3>Олимпийский чемпион Гуляев избран президентом Союза конькобежцев России</h3></a></div>
+<div data-id="844612"><span>18:04</span><a href="/world/844612"><h3>"Аэрофлот" приостанавливает рейсы на Шри-Ланку в связи с арестом самолета</h3></a></div>
+<div data-id="844611"><span>18:00</span><a href="/russia/844611"><h3>Сбербанк предупредил об очередном всплеске телефонного мошенничества</h3></a></div>
+<div data-id="844607"><span>17:54</span><a href="/business/844607"><h3>"Мираторг" начал выпуск полуфабрикатов под своим брендом, поставлявшихся ранее McDonald's</h3></a></div>
+<div data-id="844609"><span>17:52</span><a href="/business/844609"><h3>"Совет рынка" не договорился о создании структуры по выдаче низкоуглеродных сертификатов</h3></a></div>
+<div data-id="844608"><span>17:48</span><a href="/business/844608"><h3>Вознаграждение главы совета директоров "Газпром нефти" Миллера составит 106 млн рублей</h3></a></div>
+<div data-id="844606"><span>17:45</span><a href="/business/844606"><h3>Биржевые цены на сжиженные углеводородные газы побили исторический минимум</h3></a></div>
+<div data-id="844604"><span>17:43</span><a href="/world/844604"><h3>ЕС не признает выданные жителям Запорожья и Херсонщины российские паспорта</h3></a></div>
+<div data-id="844605"><span>17:40</span><a href="/world/844605"><h3>Эксперты МАГАТЭ завершили миссию на Чернобыльской АЭС</h3></a></div>
+<div data-id="844603"><span>17:37</span><a href="/russia/844603"><h3>Экс-замглавы Минобрнауки Лукашевич осуждена на 6,5 лет колонии</h3></a></div>
+<div data-id="844602"><span>17:36</span><a href="/russia/844602"><h3>Более 40 граждан Канады внесены в российский "стоп-лист" в качестве ответной меры</h3></a></div>
+<div data-id="844601"><span>17:35</span><a href="/russia/844601"><h3>В Думу внесена поправка о вычете по НДПИ для Evraz в пределах 10 млрд рублей</h3></a></div>
+<div data-id="844600"><span>17:28</span><a href="/moscow/844600"><h3>Ветер повалил в Москве почти два десятка деревьев</h3></a></div>
+<div data-id="844598"><span>17:25</span><a href="/business/844598"><h3>Москва попросила КНР разрешить поставки мяса птицы с 8 российских предприятий</h3></a></div>
+<div data-id="844599"><span>17:25</span><a href="/world/844599"><h3>В Армении не дали оппозиции провести заседание парламента по теме Азербайджана и Турции</h3></a></div>
+<div data-id="844597"><span>17:17</span><a href="/business/844597"><h3>Контейнерные ж/д операторы призвали активизировать субсидирование закупок контейнеров</h3></a></div>
+<div data-id="844595"><span>17:13</span><a href="/business/844595"><h3>Правительство утвердило параметры выкупа бондов S7, "Уральских авиалиний" и "Авроры"</h3></a></div>
+<div data-id="844596"><span>17:09</span><a href="/world/844596"><h3>Собянин сообщил об установлении побратимских связей между Москвой и Луганском</h3></a></div>
+<div data-id="844594"><span>17:06</span><a href="/digital/844594"><h3>Twitter заявил об истечении срока, позволявшего регуляторам заблокировать сделку с Маском</h3></a></div>
+<div data-id="844593"><span>17:03</span><a href="/business/844593"><h3>Банк "Санкт-Петербург" выплатит дивиденды только на "префы"</h3></a></div>
+<div data-id="844589"><span>17:02</span><a href="/russia/844589"><h3>Суд снял обеспечение, мешавшее консолидации AmRest активов франчайзи KFC на Кубани</h3></a></div>
+<div data-id="844591"><span>16:59</span><a href="/world/844591"><h3>ЕС призвал страны союза, продолжающие получать нефть РФ, срочно искать альтернативы</h3></a></div>
+<div data-id="844592"><span>16:58</span><a href="/world/844592"><h3>Пограничники Киргизии и Таджикистана договорились об отводе сил от границы</h3></a></div>
+<div data-id="844588"><span>16:57</span><a href="/russia/844588"><h3>Адвокатам из недружественных стран не разрешат работать в России</h3></a></div>
+<div data-id="844587"><span>16:56</span><a href="/russia/844587"><h3>Подозреваемый в избиении соседей спринтер находится под подпиской о невыезде</h3></a></div>
+<div data-id="844586"><span>16:46</span><a href="/business/844586"><h3>ЕС ввел санкции против "Беларуськалия" и еще семи компаний</h3></a></div>
+</div><div class="an">
+<div data-id="844582"><span>16:38</span><a href="/digital/844582"><h3>Волож ушел с поста CEO "Яндекса" после попадания в санкционный список ЕС</h3></a></div>
+<div data-id="844584"><span>16:37</span><a href="/world/844584"><h3>ЕС запретил техпомощь, финансирование транспортировки и ship-to-ship перевалки нефти РФ</h3></a></div>
+<div data-id="844585"><span>16:37</span><a href="/business/844585"><h3>Под санкции ЕС попал бывший глава "Роснефти" Эдуард Худайнатов</h3></a></div>
+<div data-id="844581"><span>16:30</span><a href="/business/844581"><h3>"Аэрофлот" и "Победа" получат 12,5 млрд руб. на возврат денег за отмененные рейсы</h3></a></div>
+<div data-id="844580"><span>16:15</span><a href="/russia/844580"><h3>Безработный житель Удмуртии задержан за поджог баннера с символикой "Z"</h3></a></div>
+<div data-id="844579"><span>16:14</span><a href="/digital/844579"><h3>Мишустин поручил подготовить предложения по импортозамещению софта в промышленности</h3></a></div>
+<div data-id="844577"><span>16:08</span><a href="/russia/844577"><h3>Акции "Яндекса" ускорили падение на новостях о санкциях ЕС против Воложа</h3></a></div>
+<div data-id="844578"><span>16:08</span><a href="/world/844578"><h3>Грузовой корабль "Прогресс МС-20" успешно пристыковался к МКС</h3></a></div>
+<div data-id="844576"><span>16:06</span><a href="/world/844576"><h3>Под санкции ЕС подпали еще свыше 60 физлиц и 18 организаций из РФ</h3></a></div>
+<div data-id="844575"><span>16:04</span><a href="/business/844575"><h3>ЕС ввел санкции против Национального расчетного депозитария</h3></a></div>
+<div data-id="844571"><span>16:02</span><a href="/world/844571"><h3>Лукашенко не исключил принудительного возвращения в Белоруссию оппозиционеров</h3></a></div>
+<div data-id="844574"><span>16:02</span><a href="/russia/844574"><h3>В Рязани сук дерева убил женщину во время грозы</h3></a></div>
+<div data-id="844573"><span>15:54</span><a href="/moscow/844573"><h3>Ректор "Шанинки" Зуев проведет в СИЗО еще три месяца</h3></a></div>
+<div data-content="webR" id="pl447_ban214"><style>
+[id*="ban214"]  > .center_desk {
+   min-height: 250px; /*desktop*/
+   overflow-x:hidden;
+/*    max-height: 270px; desktop*/
+}
+[id*="ban214"]  > .center_mob {
+  display: none;
+}
+
+/*ширина страницы до которой применяется стиль*/
+@media only screen and (max-width:760px) { 
+[id*="ban214"]  > .center_desk {
+    display: none; /*desktop*/
+}
+[id*="ban214"]  > .center_mob {
+  display: block;
+  min-height: 250px; /*mobile*/
+   overflow-x:hidden;
+/*  max-height: 270px; mobile*/
+}
+}
+</style>
+<style>
+.yatag__ban > div > yatag  >  yatag {margin-bottom:20px !important; margin-top:20px !important;}
+</style>
+<div class="i_desktop_only center_desk" style="overflow-x:hidden;">
+<!--AdFox START-->
+<!--roden-media-->
+<!--Площадка: Interfax / * / *-->
+<!--Тип баннера: 100%х240 середина-->
+<!--Расположение: <верх страницы>-->
+<div id="adfox_preid"></div>
+<script>
+        window.yaContextCb.push(()=>{
+            var bancont = document.querySelector('[id*=_ban214] #adfox_preid'); // контейнер, в который будет добавлен баннер
+            var randname = Math.random(); // случайное число
+            bancont.setAttribute('id', 'adfox_' + randname);  // установка нового ID контейнеру
+            var temp = document.querySelector('[id="adfox_'+randname +'"]').parents('[id*=_ban214]');
+            if (bancont != null) {
+                   Ya.adfoxCode.createScroll({
+                    ownerId: 173858,
+                    containerId: 'adfox_' + randname, /* новый ID контейнера */
+                    params: {
+                        p1: 'bsqgf',
+                        p2: 'etsw',
+                        puid1: '',
+                        puid2: '',
+                        puid3: '',
+                        puid4: '',
+                        pk: 'авария убийство насилие болезнь коронавирус covid вакцина эпидемия терроризм стрельба оружие война атака смерть',
+                        pke: '1'
+                    },
+                    onStub: function()
+                        {
+                        if (temp[0]) temp[0].setAttribute('style','display:none;');
+                        },
+                    onRender: function()  
+                        {
+                        if (temp[0]) {temp[0].setAttribute('style','display:block;');}
+                        document.querySelector('[id="adfox_'+randname +'"]').setAttribute("style", "margin-bottom:20px;");
+		                if  (temp[0]) { setTimeout(function()  { var ban_val=document.querySelector('[id="adfox_'+randname +'"]').offsetHeight;  if (  ban_val < 60) { temp[0].setAttribute('style','display:none;');}}, 1000);}
+                        }            
+                }, ['desktop', 'tablet'], {
+                    tabletWidth: 1023,
+                    phoneWidth: 760,
+                    isAutoReloads: true
+                });
+        }
+    });	
+</script>
+</div>
+<div class="i_mobile_only center_mob">
+<!--AdFox START-->
+<!--roden-media-->
+<!--Площадка: Interfax / * / *-->
+<!--Тип баннера: 100%х240 середина-->
+<!--Расположение: <верх страницы>-->
+<div id="adfox_preid"></div>
+<script>
+        window.yaContextCb.push(()=>{
+            var bancont = document.querySelector('[id*=_ban214] #adfox_preid'); // контейнер, в который будет добавлен баннер
+            var randname = Math.random(); // случайное число
+            bancont.setAttribute('id', 'adfox_' + randname);  // установка нового ID контейнеру
+            var temp = document.querySelector('[id="adfox_'+randname +'"]').parents('[id*=_ban214]');
+            if (bancont != null) {
+                   Ya.adfoxCode.createScroll({
+                    ownerId: 173858,
+                    containerId: 'adfox_' + randname, /* новый ID контейнера */
+                    params: {
+                        p1: 'bzakf',
+                        p2: 'etsw',
+                        puid1: '',
+                        puid2: '',
+                        puid3: ''
+                    },
+                    onStub: function()   {
+                        if (temp[0]) temp[0].setAttribute('style','display:none;');
+                    },
+                    onRender: function()  
+                    {
+                        if  (temp[0])  temp[0].setAttribute('style','display:block;');
+                        if (document.querySelector('[data-pagetype="quotes"]')) temp[0].setAttribute('style','display:block;margin-bottom:20px;');
+                    }
+                }, ['phone'], {
+                    tabletWidth: 1023,
+                    phoneWidth: 760,
+                    isAutoReloads: true
+            });
+        }	
+    });   
+</script>
+</div>
+</div>
+<div data-id="844572"><span>15:52</span><a href="/world/844572"><h3>Минимум три человека погибли в железнодорожной катастрофе в Германии</h3></a></div>
+<div data-id="844570"><span>15:50</span><a href="/business/844570"><h3>Основатель "Яндекса" Волож, "УАЗ" и "КАМАЗ" попали в санкционный список ЕС</h3></a></div>
+<div data-id="844569"><span>15:41</span><a href="/world/844569"><h3>Лукашенко счел возможным передать Москве россиянку Софью Сапегу</h3></a></div>
+<div data-id="844567"><span>15:37</span><a href="/russia/844567"><h3>Провайдеры ПО из США уже уведомили "Северсталь" о прекращении обслуживания из-за санкций</h3></a></div>
+<div data-id="844568"><span>15:37</span><a href="/business/844568"><h3>ООО "Макдоналдс" сменило название на "Система ПБО"</h3></a></div>
+<div data-id="844566"><span>15:34</span><a href="/world/844566"><h3>Украинские аграрии предложили проложить в Польше широкую ж/д колею для вывоза зерна</h3></a></div>
+<div data-id="844564"><span>15:29</span><a href="/world/844564"><h3>Президент Белоруссии заявил о конфликте между Зеленским и украинскими военными</h3></a></div>
+<div data-id="844563"><span>15:28</span><a href="/russia/844563"><h3>Четырехкратный чемпион России в спринте задержан в Петербурге по делу о драке</h3></a></div>
+<div data-id="844565"><span>15:28</span><a href="/moscow/844565"><h3>Завершена реконструкция стадиона "Москвич" на юго-востоке столицы</h3></a></div>
+<div data-id="844559"><span>15:11</span><a href="/world/844559"><h3>Лукашенко заверил, что Россия не собирается захватывать Украину</h3></a></div>
+<div data-id="844560"><span>15:09</span><a href="/world/844560"><h3>Словакия попросила у ЕС помощи в смягчении последствий нефтяного эмбарго против РФ</h3></a></div>
+<div data-id="844558"><span>15:08</span><a href="/world/844558"><h3>В странах Ближнего Востока два месяца не прекращаются сильные песчаные бури</h3></a></div>
+<div data-id="844557"><span>15:07</span><a href="/russia/844557"><h3>В Якутии нашли уникальную по сохранности могилу шамана XVIII века</h3></a></div>
+<div data-id="844553"><span>14:58</span><a href="/business/844553"><h3>ЕК занялась созданием "коридоров солидарности" для вывоза украинского зерна</h3></a></div>
+<div data-id="844555"><span>14:54</span><a href="/world/844555"><h3>Секрет длинной шеи жирафа открыли с помощью его древнего родственника-"единорога"</h3></a></div>
+<div data-id="844556"><span>14:50</span><a href="https://www.sport-interfax.ru/844556"><h3>WBA признала россиянина Бивола боксером месяца</h3></a></div>
+<div data-id="844554"><span>14:48</span><a href="/russia/844554"><h3>Студенты вузов Донбасса смогут получить дипломы российских университетов</h3></a></div>
+<div data-id="844552"><span>14:46</span><a href="/russia/844552"><h3>В Дагестане нашли тела двух мужчин, унесенных в автомобиле рекой</h3></a></div>
+<div data-id="844549"><span>14:43</span><a href="/culture/844549"><h3>Рок-оперу "Иисус Христос - суперзвезда" не покажут уральцам из-за проблем с лицензией</h3></a></div>
+<div data-id="844547"><span>14:39</span><a href="/digital/844547"><h3>Мишустин обещал снизить налог на прибыль за разработки в области ИИ</h3></a></div>
+<div data-id="844551"><span>14:38</span><a href="https://www.sport-interfax.ru/844551"><h3>Танцевальная пара фигуристов Скопцова и Алешин завершила карьеру</h3></a></div>
+<div data-id="844548"><span>14:33</span><a href="/business/844548"><h3>Цена нефти Brent опустилась ниже $116,9 за баррель на решении ОПЕК+</h3></a></div>
+<div data-id="844546"><span>14:31</span><a href="/world/844546"><h3>В Эстонии впервые за шпионаж осуждена женщина</h3></a></div>
+<div data-id="844545"><span>14:29</span><a href="/russia/844545"><h3>В Екатеринбурге подняли вопрос о питьевой воде из-за обмеления рек</h3></a></div>
+<div data-id="844543"><span>14:25</span><a href="/russia/844543"><h3>Директора лицея оштрафовали за избиение ученика одноклассниками</h3></a></div>
+<div data-id="844544"><span>14:20</span><a href="/russia/844544"><h3>Минобрнауки России договорилось о сотрудничестве с коллегами из ЛНР и ДНР</h3></a></div>
+<div data-id="844541"><span>14:12</span><a href="/business/844541"><h3>Китай потерял статус крупнейшего кинорынка из-за COVID-ограничений и цензуры</h3></a></div>
+<div data-id="844542"><span>14:11</span><a href="/world/844542"><h3>Лукашенко предложил транзит зерна с Украины в балтийские порты через Белоруссию</h3></a></div>
+<div data-id="844540"><span>14:05</span><a href="/business/844540"><h3>Мишустин заявил, что доля российских IT-решений в промышленности РФ не превышает 25%</h3></a></div>
+<div data-id="844536"><span>14:03</span><a href="/russia/844536"><h3>Экс-заммэра Оренбурга будут судить за фиктивное трудоустройство блогера</h3></a></div>
+<div data-id="844533"><span>13:59</span><a href="/business/844533"><h3>Растущий спрос на СПГ-танкеры привел к скачку цены фрахта почти до 10-летнего максимума</h3></a></div>
+<div data-id="844539"><span>13:57</span><a href="/world/844539"><h3>Китай завершает строительство третьего авианосца</h3></a></div>
+<div data-id="844535"><span>13:51</span><a href="/business/844535"><h3>Рынок акций РФ днем упал ниже 2300п по индексу МосБиржи во главе с "Северсталью"</h3></a></div>
+<div data-id="844538"><span>13:47</span><a href="https://www.sport-interfax.ru/844538"><h3>Мамаев покинул "Химки"</h3></a></div>
+<div data-id="844537"><span>13:46</span><a href="/business/844537"><h3>Банкам разрешат не создавать резервы по сомнительным долгам при невыплате доходов по евробондам</h3></a></div>
+<div data-id="844532"><span>13:45</span><a href="/russia/844532"><h3>Соратник Навального Рубанов внесен в список Росфинмониторинга</h3></a></div>
+<div data-id="844534"><span>13:43</span><a href="/moscow/844534"><h3>Начальник главка столичного МЧС пострадал при пожаре в московском бизнес-центре</h3></a></div>
+<div data-id="844531"><span>13:31</span><a href="/business/844531"><h3>Производство Украиной сахара в этом сельхозгоду превысило внутренний спрос</h3></a></div>
+<div data-id="844530"><span>13:30</span><a href="https://www.sport-interfax.ru/844530"><h3>ФК "Спартак" выкупил у швейцарского "Янг Бойз" права на Мартинса</h3></a></div>
+<div data-id="844529"><span>13:27</span><a href="/russia/844529"><h3>Экс-замглавы Минсельхоза Якутии будут судить за взяточничество и злоупотребления</h3></a></div>
+<div data-id="844528"><span>13:25</span><a href="/world/844528"><h3>Путин разъяснит главе Африканского союза ситуацию с поставками зерна</h3></a></div>
+<div data-id="844520"><span>13:23</span><a href="/russia/844520"><h3>Кремль не смог назвать сроки решения вопроса о будущем Донбасса, Запорожья и Херсонщины</h3></a></div>
+<div data-id="844526"><span>13:22</span><a href="/russia/844526"><h3>Кремль и МИД отметили достигнутые результаты спецоперации на Украине</h3></a></div>
+<div data-id="844522"><span>13:16</span><a href="/world/844522"><h3>Национализация в Запорожской области не затронула частную собственность</h3></a></div>
+<div data-id="844523"><span>13:16</span><a href="/world/844523"><h3>В Еврокомиссии назвали императивом ЕС отказ от энергоносителей из России</h3></a></div>
+<div data-id="844524"><span>13:15</span><a href="/business/844524"><h3>Экспортная пошлина на пшеницу из РФ с 8 июня повысится до $129,2</h3></a></div>
+<div data-id="844525"><span>13:14</span><a href="/world/844525"><h3>В Кремле подтвердили планы обсуждения в Турции вопроса вывоза украинского зерна</h3></a></div>
+<div data-id="844521"><span>13:10</span><a href="/russia/844521"><h3>Глав всех представительств СМИ США вызвали 6 июня на Смоленскую площадь</h3></a></div>
+<div data-id="844519"><span>12:58</span><a href="/russia/844519"><h3>ВГТРК не будет судиться из-за запрета вещания ее телеканалов в Евросоюзе</h3></a></div>
+<div data-id="844515"><span>12:54</span><a href="/russia/844515"><h3>Низкий уровень воды в Енисее может сказаться на работе завода "Русала" в Хакасии</h3></a></div>
+<div data-id="844509"><span>12:48</span><a href="/russia/844509"><h3>В Красноярске возбудили дело о покупке фальшивых сертификатов о ковид-вакцинации</h3></a></div>
+<div data-id="844516"><span>12:39</span><a href="/world/844516"><h3>Ракета "Союз" с грузовиком "Прогресс МС-20" стартовала к МКС</h3></a></div>
+<div data-id="844514"><span>12:38</span><a href="/russia/844514"><h3>В РФ зафиксирован рост числа официально зарегистрированных безработных</h3></a></div>
+<div data-id="844508"><span>12:37</span><a href="/world/844508"><h3>Лукашенко потребовал, чтобы в ополчение от каждого сельсовета вошли по 50 человек</h3></a></div>
+<div data-id="844513"><span>12:31</span><a href="/business/844513"><h3>Турецкий Genesis Seed решил создать в Башкирии производство гибридных семян</h3></a></div>
+<div data-id="844512"><span>12:29</span><a href="/moscow/844512"><h3>Пожар в московском бизнес-центре "Гранд Сетунь Плаза" потушен</h3></a></div>
+<div data-id="844510"><span>12:26</span><a href="/world/844510"><h3>"Аэрофлот" отменил рейс из Шри-Ланки в Москву после ареста самолета местным судом</h3></a></div>
+</div><div class="an">
+<div data-id="844511"><span>12:25</span><a href="/world/844511"><h3>В МИД отметили готовность России поставлять зерно после отмены санкций</h3></a></div>
+<div data-id="844507"><span>12:18</span><a href="/world/844507"><h3>Маск счел необходимым сократить штат Tesla на 10% на фоне "плохих предчувствий"</h3></a></div>
+<div data-id="844506"><span>12:17</span><a href="/moscow/844506"><h3>Более 20% месячной нормы осадков выпало в Москве менее чем за час</h3></a></div>
+<div data-id="844505"><span>12:13</span><a href="/business/844505"><h3>РЖД ограничили отгрузку в Польшу и обновили список по России</h3></a></div>
+<div data-id="844504"><span>12:10</span><a href="/world/844504"><h3>Оспа обезьян зафиксирована в Латвии</h3></a></div>
+<div data-id="844497"><span>12:07</span><a href="/russia/844497"><h3>Бывшего главу Татфондбанка Мусина скоро начнут судить по второму делу</h3></a></div>
+<div data-id="844503"><span>12:05</span><a href="/business/844503"><h3>Бюджет РФ в мае получил дополнительно 263,7 млрд руб. нефтегазовых доходов</h3></a></div>
+<div data-id="844499"><span>12:03</span><a href="/world/844499"><h3>Военные РФ сообщили об уничтожении украинских танков, БМП и РСЗО "Град"</h3></a></div>
+<div data-id="844501"><span>12:01</span><a href="/world/844501"><h3>Westinghouse поставит ядерное топливо на все АЭС Украины</h3></a></div>
+<div data-id="844502"><span>12:01</span><a href="/world/844502"><h3>Один киргизский военный ранен в ходе перестрелки на границе с Таджикистаном</h3></a></div>
+<div data-id="844500"><span>11:58</span><a href="/world/844500"><h3>Работника РКЦ будут судить за "слив" данных силовиков и чиновников Белоруссии</h3></a></div>
+<div data-id="844498"><span>11:56</span><a href="/business/844498"><h3>Средства ФНБ пойдут на реструктуризацию долга S7 перед банками</h3></a></div>
+<div data-id="844496"><span>11:51</span><a href="/russia/844496"><h3>Защита обжаловала штраф экс-мэра Екатеринбурга Ройзмана по делу о неуважении к власти</h3></a></div>
+<div data-content="webR" id="pl447_ban214"><style>
+[id*="ban214"]  > .center_desk {
+   min-height: 250px; /*desktop*/
+   overflow-x:hidden;
+/*    max-height: 270px; desktop*/
+}
+[id*="ban214"]  > .center_mob {
+  display: none;
+}
+
+/*ширина страницы до которой применяется стиль*/
+@media only screen and (max-width:760px) { 
+[id*="ban214"]  > .center_desk {
+    display: none; /*desktop*/
+}
+[id*="ban214"]  > .center_mob {
+  display: block;
+  min-height: 250px; /*mobile*/
+   overflow-x:hidden;
+/*  max-height: 270px; mobile*/
+}
+}
+</style>
+<style>
+.yatag__ban > div > yatag  >  yatag {margin-bottom:20px !important; margin-top:20px !important;}
+</style>
+<div class="i_desktop_only center_desk" style="overflow-x:hidden;">
+<!--AdFox START-->
+<!--roden-media-->
+<!--Площадка: Interfax / * / *-->
+<!--Тип баннера: 100%х240 середина-->
+<!--Расположение: <верх страницы>-->
+<div id="adfox_preid"></div>
+<script>
+        window.yaContextCb.push(()=>{
+            var bancont = document.querySelector('[id*=_ban214] #adfox_preid'); // контейнер, в который будет добавлен баннер
+            var randname = Math.random(); // случайное число
+            bancont.setAttribute('id', 'adfox_' + randname);  // установка нового ID контейнеру
+            var temp = document.querySelector('[id="adfox_'+randname +'"]').parents('[id*=_ban214]');
+            if (bancont != null) {
+                   Ya.adfoxCode.createScroll({
+                    ownerId: 173858,
+                    containerId: 'adfox_' + randname, /* новый ID контейнера */
+                    params: {
+                        p1: 'bsqgf',
+                        p2: 'etsw',
+                        puid1: '',
+                        puid2: '',
+                        puid3: '',
+                        puid4: '',
+                        pk: 'авария убийство насилие болезнь коронавирус covid вакцина эпидемия терроризм стрельба оружие война атака смерть',
+                        pke: '1'
+                    },
+                    onStub: function()
+                        {
+                        if (temp[0]) temp[0].setAttribute('style','display:none;');
+                        },
+                    onRender: function()  
+                        {
+                        if (temp[0]) {temp[0].setAttribute('style','display:block;');}
+                        document.querySelector('[id="adfox_'+randname +'"]').setAttribute("style", "margin-bottom:20px;");
+		                if  (temp[0]) { setTimeout(function()  { var ban_val=document.querySelector('[id="adfox_'+randname +'"]').offsetHeight;  if (  ban_val < 60) { temp[0].setAttribute('style','display:none;');}}, 1000);}
+                        }            
+                }, ['desktop', 'tablet'], {
+                    tabletWidth: 1023,
+                    phoneWidth: 760,
+                    isAutoReloads: true
+                });
+        }
+    });	
+</script>
+</div>
+<div class="i_mobile_only center_mob">
+<!--AdFox START-->
+<!--roden-media-->
+<!--Площадка: Interfax / * / *-->
+<!--Тип баннера: 100%х240 середина-->
+<!--Расположение: <верх страницы>-->
+<div id="adfox_preid"></div>
+<script>
+        window.yaContextCb.push(()=>{
+            var bancont = document.querySelector('[id*=_ban214] #adfox_preid'); // контейнер, в который будет добавлен баннер
+            var randname = Math.random(); // случайное число
+            bancont.setAttribute('id', 'adfox_' + randname);  // установка нового ID контейнеру
+            var temp = document.querySelector('[id="adfox_'+randname +'"]').parents('[id*=_ban214]');
+            if (bancont != null) {
+                   Ya.adfoxCode.createScroll({
+                    ownerId: 173858,
+                    containerId: 'adfox_' + randname, /* новый ID контейнера */
+                    params: {
+                        p1: 'bzakf',
+                        p2: 'etsw',
+                        puid1: '',
+                        puid2: '',
+                        puid3: ''
+                    },
+                    onStub: function()   {
+                        if (temp[0]) temp[0].setAttribute('style','display:none;');
+                    },
+                    onRender: function()  
+                    {
+                        if  (temp[0])  temp[0].setAttribute('style','display:block;');
+                        if (document.querySelector('[data-pagetype="quotes"]')) temp[0].setAttribute('style','display:block;margin-bottom:20px;');
+                    }
+                }, ['phone'], {
+                    tabletWidth: 1023,
+                    phoneWidth: 760,
+                    isAutoReloads: true
+            });
+        }	
+    });   
+</script>
+</div>
+</div>
+<div data-id="844490"><span>11:46</span><a href="/russia/844490"><h3>Суд не отпустил под домашний арест обвиняемую в нападении на памятник Зорге</h3></a></div>
+<div data-id="844495"><span>11:43</span><a href="/world/844495"><h3>Пограничники Киргизии сообщили о переброске Таджикистаном тяжелой техники к границе</h3></a></div>
+<div data-id="844494"><span>11:41</span><a href="/business/844494"><h3>"АвтоВАЗ" запланировал возобновить выпуск моделей Granta на следующей неделе</h3></a></div>
+<div data-id="844489"><span>11:33</span><a href="/business/844489"><h3>Акции "Северстали" подешевели более чем на 11% на "Мосбирже"</h3></a></div>
+<div data-id="844486"><span>11:31</span><a href="/russia/844486"><h3>В самолете МС-21 планируют заместить свыше 80 импортных систем и агрегатов</h3></a></div>
+<div data-id="844492"><span>11:30</span><a href="/russia/844492"><h3>Ребенка унесло течением реки в Коми</h3></a></div>
+<div data-id="844491"><span>11:29</span><a href="https://www.sport-interfax.ru/844491"><h3>Карпин назвал грязной жесткой ложью сведения о переговорах с "Динамо"</h3></a></div>
+<div data-id="844487"><span>11:25</span><a href="/world/844487"><h3>Совет ЕС утвердил шестой пакет санкций в отношении России</h3></a></div>
+<div data-id="844488"><span>11:25</span><a href="/russia/844488"><h3>В МЧС РФ сообщили о локализации пожара в бизнес-центре "Гранд Сетунь Плаза"</h3></a></div>
+<div data-id="844485"><span>11:23</span><a href="/russia/844485"><h3>ГИБДД перекрыло съезды с МКАД и СЗХ из-за пожара в БЦ на западе Москвы</h3></a></div>
+<div data-id="844484"><span>11:20</span><a href="/business/844484"><h3>Годовая инфляция в Турции взлетела до 73,5%</h3></a></div>
+<div data-id="844483"><span>11:16</span><a href="/russia/844483"><h3>Спасателям Миасса пришлось вмешаться из-за атаки ворон на детей после падения птенца</h3></a></div>
+<div data-id="844482"><span>11:11</span><a href="/business/844482"><h3>Правительство предложило повысить налоговый вычет по НДПИ для Самотлора</h3></a></div>
+<div data-id="844480"><span>11:07</span><a href="/moscow/844480"><h3>Якиманку и Балчуг соединят новым велопешеходным мостом</h3></a></div>
+<div data-id="844481"><span>11:04</span><a href="/russia/844481"><h3>Число новых случаев заражения COVID-19 в РФ незначительно снизилось за сутки</h3></a></div>
+<div data-id="844479"><span>11:00</span><a href="/russia/844479"><h3>В России гражданин Узбекистана осужден на 8 лет после запрета ЕСПЧ выдать его на родину</h3></a></div>
+<div data-id="844478"><span>10:56</span><a href="/business/844478"><h3>Страховая компания Allianz продаст бизнес в РФ владельцу "Зетта страхования"</h3></a></div>
+<div data-id="844471"><span>10:53</span><a href="/russia/844471"><h3>Человек погиб в ДТП с автобусом с детьми во Владимирской области</h3></a></div>
+<div data-id="844477"><span>10:50</span><a href="/moscow/844477"><h3>Грозовые ливни обрушились на Москву</h3></a></div>
+<div data-id="844476"><span>10:48</span><a href="/moscow/844476"><h3>Более 120 человек спасены из горящего бизнес-центра в Москве</h3></a></div>
+<div data-id="844475"><span>10:46</span><a href="/world/844475"><h3>Киргизские и таджикские пограничники вступили в перестрелку</h3></a></div>
+<div data-id="844463"><span>10:44</span><a href="/world/844463"><h3>Россияне смогут расплачиваться картой "Мир" почти во всех отелях Турции</h3></a></div>
+<div data-id="844473"><span>10:38</span><a href="/moscow/844473"><h3>Короткое замыкание могло стать причиной пожара в "Сетунь-плазе"</h3></a></div>
+<div data-id="844466"><span>10:36</span><a href="/moscow/844466"><h3>Задержан подозреваемый в убийстве бизнесмена в центре Москвы</h3></a></div>
+<div data-id="844472"><span>10:35</span><a href="/russia/844472"><h3>Попавшие под санкции граждане смогут продать акции компаний РФ без уплаты НДФЛ</h3></a></div>
+<div data-id="844474"><span>10:32</span><a href="https://www.sport-interfax.ru/844474"><h3>Фигуристка Трусова выступит в прыжках в длину на соревнованиях легкоатлетов</h3></a></div>
+<div data-id="844467"><span>10:29</span><a href="/business/844467"><h3>Думе предложили убрать фиксацию расходов при расчете НДД на уровне 8600 рублей</h3></a></div>
+<div data-id="844469"><span>10:29</span><a href="/business/844469"><h3>Ритейлер Kohl's получил два предложения от потенциальных покупателей</h3></a></div>
+<div data-id="844468"><span>10:23</span><a href="/business/844468"><h3>Рынок акций РФ открылся ростом индекса МосБиржи на 0,2% и снижением индекса РТС на 0,4%</h3></a></div>
+<div data-id="844470"><span>10:22</span><a href="/business/844470"><h3>Расписки ММК уйдут с Лондонской фондовой биржи с 27 июня</h3></a></div>
+<div data-id="844464"><span>10:18</span><a href="/russia/844464"><h3>Вице-премьерам Новаку и Хуснуллину поручили кураторство новых программ</h3></a></div>
+<div data-id="844462"><span>10:15</span><a href="/business/844462"><h3>Рубль снизился к доллару и евро на старте торгов на фоне решения ОПЕК+</h3></a></div>
+<div data-id="844461"><span>10:14</span><a href="/moscow/844461"><h3>До 15 человек могут находиться внутри горящего бизнес-центра на западе Москвы</h3></a></div>
+<div data-id="844459"><span>10:12</span><a href="/russia/844459"><h3>В Приморье шесть иеговистов получили условные сроки с конфискацией гаджетов</h3></a></div>
+<div data-id="844458"><span>10:09</span><a href="/business/844458"><h3>Оборот торгов иностранными бумагами на "СПБ бирже" в мае упал в 2,4 раза год к году</h3></a></div>
+<div data-id="844460"><span>10:08</span><a href="/business/844460"><h3>Заявка "Газпрома" на прокачку через Украину осталась на уровне предыдущих дней</h3></a></div>
+<div data-id="844457"><span>10:01</span><a href="/moscow/844457"><h3>На западе Москвы загорелся бизнес-центр</h3></a></div>
+<div data-id="844455"><span>09:51</span><a href="/russia/844455"><h3>Женщина сгорела в автомобиле, который опрокинулся на подъезде к Екатеринбургу</h3></a></div>
+<div data-id="844456"><span>09:50</span><a href="/business/844456"><h3>Суд в Коломбо запретил самолету "Аэрофлота" покидать Шри-Ланку</h3></a></div>
+<div data-id="844454"><span>09:46</span><a href="/world/844454"><h3>Белорусский Альфа-банк частично разблокировал инвестсчета клиентов</h3></a></div>
+<div data-id="844453"><span>09:42</span><a href="/business/844453"><h3>В Налоговый кодекс введут новый вид полезного ископаемого</h3></a></div>
+<div data-id="844452"><span>09:34</span><a href="/business/844452"><h3>Минфин предложил на два года освободить физлиц от НДФЛ при продаже золота в слитках</h3></a></div>
+<div data-id="844451"><span>09:28</span><a href="/business/844451"><h3>В апреле индекс PMI сферы услуг России поднялся до 48,5 пункта</h3></a></div>
+<div data-id="844450"><span>09:25</span><a href="/business/844450"><h3>Германия сократила экспорт в Россию в апреле на 10%, импорт упал на 16,4%</h3></a></div>
+<div data-id="844447"><span>09:20</span><a href="/russia/844447"><h3>Уральское химпредприятие пожаловалось в МВД на запуск квадрокоптера над его территорией</h3></a></div>
+<div data-id="844448"><span>09:18</span><a href="/russia/844448"><h3>Первое после начала спецоперации грузовое судно прибыло из Мариуполя в Ростов-на-Дону</h3></a></div>
+<div data-id="844446"><span>09:10</span><a href="/digital/844446"><h3>В Москве создана библиотека обезличенных данных по медицине для обучения нейросетей</h3></a></div>
+<div data-id="844445"><span>09:05</span><a href="/world/844445"><h3>Число мобильных операторов РФ в Херсонской области вырастет до трех за лето</h3></a></div>
+<div data-id="844444"><span>08:53</span><a href="https://www.sport-interfax.ru/844444"><h3>В Казахстане сообщили о просьбах спортсменов из РФ включить их в национальную сборную</h3></a></div>
+<div data-id="844443"><span>08:45</span><a href="/world/844443"><h3>Школьница погибла от удара молнии в Киргизии</h3></a></div>
+<div data-id="844442"><span>08:36</span><a href="/business/844442"><h3>"Клуб Отель" стал правопреемником по договору финансирования одной из компаний McDonald's</h3></a></div>
+<div data-id="844441"><span>08:20</span><a href="/business/844441"><h3>Brent подешевела до $117,14 за баррель</h3></a></div>
+<div data-id="844440"><span>08:19</span><a href="/russia/844440"><h3>Академик предупредил о риске поломки в случае несогласованного включения телескопа eROSITA</h3></a></div>
+<div data-id="844439"><span>08:09</span><a href="/world/844439"><h3>МИД Японии вызвал группу саперов из-за подозрительной посылки</h3></a></div>
+<div data-id="844438"><span>07:57</span><a href="/russia/844438"><h3>Посол РФ Антонов заявил, что попытки США заблокировать долговые платежи РФ подорвут доверие к США</h3></a></div>
+<div data-id="844437"><span>07:48</span><a href="/russia/844437"><h3>Суд отложил рассмотрение иска Росрыболовства к НТЭК до 17 июня</h3></a></div>
+<div data-id="844436"><span>07:40</span><a href="/russia/844436"><h3>Футбольные ворота насмерть придавили подростка в Новосибирской области</h3></a></div>
+</div>
